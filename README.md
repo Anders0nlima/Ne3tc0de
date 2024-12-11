@@ -25,3 +25,5 @@ tSort = ['g', 'o', 'd'] → order → ['d', 'g', 'o']
 
 sSort = ['d', 'g', 'o']  
 tSort = ['d', 'g', 'o']  
+
+The two are equal, so the function returns true.
